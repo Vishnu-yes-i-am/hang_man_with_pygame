@@ -1,6 +1,7 @@
 json5==0.8.5
 jsonschema==2.6.0
 regex==2018.2.21
+pygame==2.0.0.dev16
 requests==2.23.0
 schedule==0.6.0
 spotipy==2.12.0
