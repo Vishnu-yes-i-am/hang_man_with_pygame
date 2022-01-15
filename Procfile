@@ -1,1 +1,1 @@
-web: python hangman_game.py
+worker: python hangman_game.py
